@@ -1,4 +1,5 @@
 # Selection Sort from: https://stackabuse.com/selection-sort-in-python/
+# Selection sort algorithm time complexity is: O(n^2). But faster(twice as fast) than Bubble Sort
 
 def selection_sort(list):
 
